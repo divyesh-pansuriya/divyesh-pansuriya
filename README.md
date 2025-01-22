@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f61,100:ffc371&height=200&section=header&text=Divyesh%20Pansuriya&fontSize=40&fontColor=ffffff&fontAlignY=50" alt="Header" />
 </div>
 
+<p align="center">
+    <a href="https://github.com/divyesh-pansuriya/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/divyesh-pansuriya/github-readme-stats" />
+    </a>
+    <a href="https://github.com/divyesh-pansuriya/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/divyesh-pansuriya/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/divyesh-pansuriya/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/divyesh-pansuriya/github-readme-stats?color=0088ff" />
+    </a>
+  </p>
+
 # 👨‍💻 Senior iOS Developer | 🚀 Innovating Mobile Experiences
 
 Hi there! I’m **Divyesh Pansuriya**, a dedicated **Senior iOS Developer** who crafts seamless, intuitive, and performant mobile applications. My mission is to turn ideas into robust digital solutions.
@@ -28,11 +40,10 @@ Hi there! I’m **Divyesh Pansuriya**, a dedicated **Senior iOS Developer** who 
 - Design Patterns: MVVM, VIPER, SOLID Principles  
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyesh-pansuriya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-pansuriya&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
+![Divyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyesh-pansuriya\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-pansuriya\&layout=compact)
 
 ## 🌟 Achievements
 - 🌍 Successfully deployed and managed **10+ apps** on the App Store with top ratings.  
