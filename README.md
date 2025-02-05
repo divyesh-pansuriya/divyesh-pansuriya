@@ -7,7 +7,7 @@
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/divyesh-pansuriya/divyesh-pansuriya" />
     </a>
     <a href="https://github.com/divyesh-pansuriya/divyesh-pansuriya/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/divyesh-pansuriya/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/divyesh-pansuriya/divyesh-pansuriya?color=0088ff" />
     </a>
     <a href="https://github.com/divyesh-pansuriya/divyesh-pansuriya/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/divyesh-pansuriya/divyesh-pansuriya?color=0088ff" />
