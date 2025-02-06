@@ -54,7 +54,19 @@ Hi there! I’m **Divyesh Pansuriya**, a dedicated **Senior iOS Developer** who 
 ## 🌟 Achievements
 - 🌍 Successfully deployed and managed **10+ apps** on the App Store with top ratings.  
 - 🚀 Optimized app performance, achieving a **30% reduction** in loading times.  
-- 🛠 Streamlined workflows with custom tools and frameworks for **image processing** and network requests.  
+- 🛠 Streamlined workflows with custom tools and frameworks for **image processing** and network requests.
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyesh-pansuriya/divyesh-pansuriya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyesh-pansuriya/divyesh-pansuriya/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/divyesh-pansuriya/divyesh-pansuriya/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
 > 💡 _"Code is art, and every line tells a story."_ – Divyesh Pansuriya
 
