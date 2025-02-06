@@ -46,7 +46,6 @@ Hi there! I’m **Divyesh Pansuriya**, a dedicated **Senior iOS Developer** who 
 
 <div align=left>
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=divyesh-pansuriya&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Divyesh Pansuriya's GitHub Stats" />
-  <img width=150 src="https://github-readme-streak-stats.herokuapp.com/?user=divyesh-pansuriya&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Divyesh Pansuriya's" />
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-pansuriya&theme=transparent&layout=compact&count_private=true" alt="Divyesh Pansuriya's Most Used Languages" />
 </div>
 <hr>
