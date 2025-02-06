@@ -12,23 +12,27 @@
     <a href="https://github.com/divyesh-pansuriya/divyesh-pansuriya/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/divyesh-pansuriya/divyesh-pansuriya?color=0088ff" />
     </a>
+  <a>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=divyesh-pansuriya&color=green" />
+  </a>
   </p>
 
 # 👨‍💻 Senior iOS Developer | 🚀 Innovating Mobile Experiences
 
 Hi there! I’m **Divyesh Pansuriya**, a dedicated **Senior iOS Developer** who crafts seamless, intuitive, and performant mobile applications. My mission is to turn ideas into robust digital solutions.
 
-## ⚙️ Technologies & Expertise
-### 💻 Languages & Frameworks
+## 🛠️ Languages and Tools
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1572B6?style=for-the-badge&logo=xcode&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=c&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🛠 Tools & Platforms
-![Xcode](https://img.shields.io/badge/Xcode-1572B6?style=for-the-badge&logo=xcode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,apple,html,firebase,ai,materialui,ps,sqlite" />
+  <img src="https://skillicons.dev/icons?i=gmail,xd,figma,git,github,gitlab,postman,bitbucket,discord" />
+</p>
+<hr>
 
 ### 🔧 Performance & Optimization
 - Optimized app launch times, achieving up to **50% faster loading speeds**.  
@@ -41,29 +45,37 @@ Hi there! I’m **Divyesh Pansuriya**, a dedicated **Senior iOS Developer** who 
 
 ## 📊 GitHub Stats
 
-![Divyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyesh-pansuriya\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-pansuriya\&layout=compact)
+<div align=left>
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=divyesh-pansuriya&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Divyesh Pansuriya's GitHub Stats" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-pansuriya&theme=transparent&layout=compact&count_private=true" alt="Divyesh Pansuriya's Most Used Languages" />
+</div>
+<hr>
 
 ## 🌟 Achievements
 - 🌍 Successfully deployed and managed **10+ apps** on the App Store with top ratings.  
 - 🚀 Optimized app performance, achieving a **30% reduction** in loading times.  
 - 🛠 Streamlined workflows with custom tools and frameworks for **image processing** and network requests.  
 
-## 📬 Get in Touch
+> 💡 _"Code is art, and every line tells a story."_ – Divyesh Pansuriya
+
+## 📫 Connect with Me
+
+<br>
 <div align="center">
   <a href="https://divyesh-pansuriya.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/divyesh-pansuriya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:adpansuriya7300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyesh-pansuriya-3b6554186/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@good-morning-swift" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
-
-> 💡 _"Code is art, and every line tells a story."_ – Divyesh Pansuriya  
+<hr>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc371,100:ff6f61&text=Thank%20You&fontSize=25&fontColor=ffffff&height=100&section=footer&fontAlignY=75" alt="Footer" />
