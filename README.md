@@ -28,7 +28,7 @@ Hi there! I’m **Divyesh Pansuriya**, a dedicated **Senior iOS Developer** who 
 ![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=c&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
 <br>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=swift,apple,html,firebase,ai,materialui,ps,sqlite" />
   <img src="https://skillicons.dev/icons?i=gmail,xd,figma,git,github,gitlab,postman,bitbucket,discord" />
 </p>
